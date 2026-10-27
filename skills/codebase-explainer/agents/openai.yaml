@@ -1,0 +1,4 @@
+interface:
+  display_name: "代码仓库功能图解"
+  short_description: "从主要功能与真实案例理解代码仓库，分层展示输入输出、数据流、可视化和文件变化"
+  default_prompt: "使用 $codebase-explainer 帮我理解当前仓库：先讲清项目用途和主要功能，再用真实案例展示输入输出、可视化结果与文件变化，源码细节按需展开。"
